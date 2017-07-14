@@ -1,6 +1,6 @@
 <?php
  // connect to database
-
+//Ha4e example tov chi zaydou an iyak tchovi bih 4e
 $connect=mysqli_connect("localhost", "root", "","cmpta");
 
 if (mysqli_connect_error()) {
